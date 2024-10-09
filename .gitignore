@@ -1,0 +1,5 @@
+.env
+
+# Node.js
+frontend/node_modules/
+
